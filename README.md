@@ -1,5 +1,5 @@
 # Resumo do projeto
-Nu Kenzie é um app onde podemos fazer nosso controle financeiro, adicionando/removendo as entradas/saídas financeiras.
+Nu Kenzie é uma aplicação onde podemos fazer nosso controle financeiro, adicionando/removendo as entradas/saídas financeiras e podemos visualizar nosso saldo.
 
 # :hammer: Funcionalidades do projeto
 
